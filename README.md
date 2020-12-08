@@ -12,6 +12,7 @@ ThinkPHP5小案例：
 详细开发文档参考 [ThinkPHP5完全开发手册](http://www.kancloud.cn/manual/thinkphp5)
 
 ### 各位老板请注意，把ThinkPHP核心文件加进去才能正常运行
+意思就是说vender目录你需要重新拷贝到项目中，或者你在项目根目录执行composer install 就安装好了（但如果你是初学者，你电脑可能还没安装composer）。
 
 ## 数据库
 数据据文件在根目录: data.sql
